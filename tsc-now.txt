@@ -1,0 +1,10 @@
+src/modules/platform/platform.repository.ts(4,3): error TS2305: Module '"../../schema/index.js"' has no exported member 'platformConnections'.
+src/modules/platform/platform.repository.ts(5,8): error TS2305: Module '"../../schema/index.js"' has no exported member 'PlatformConnection'.
+src/modules/platform/platform.repository.ts(6,8): error TS2305: Module '"../../schema/index.js"' has no exported member 'NewPlatformConnection'.
+src/modules/platform/platform.types.ts(8,15): error TS2305: Module '"../../schema/index.js"' has no exported member 'PlatformConnection'.
+src/modules/platform/platform.types.ts(8,35): error TS2305: Module '"../../schema/index.js"' has no exported member 'NewPlatformConnection'.
+src/modules/reputation/reputation.repository.ts(4,3): error TS2305: Module '"../../schema/index.js"' has no exported member 'reputationScores'.
+src/modules/reputation/reputation.repository.ts(5,8): error TS2305: Module '"../../schema/index.js"' has no exported member 'ReputationScore'.
+src/modules/reputation/reputation.repository.ts(6,8): error TS2305: Module '"../../schema/index.js"' has no exported member 'NewReputationScore'.
+src/modules/reputation/reputation.types.ts(4,15): error TS2305: Module '"../../schema/index.js"' has no exported member 'ReputationScore'.
+src/modules/reputation/reputation.types.ts(4,32): error TS2305: Module '"../../schema/index.js"' has no exported member 'NewReputationScore'.
